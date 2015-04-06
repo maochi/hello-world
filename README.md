@@ -1,3 +1,8 @@
 # hello-world
 first repository
-This is cool
+
+============
+Humans,
+
+this is my first experience with github...
+Hope this works
